@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Prisma/static/css/main.fb47f58b.css",
+    "main.css": "/Prisma/static/css/main.743208b4.css",
     "main.js": "/Prisma/static/js/main.8c2a36c1.js",
     "static/media/tech-support.gif": "/Prisma/static/media/tech-support.af672abdd4d36a87f38b.gif",
     "static/media/digital-wallet.gif": "/Prisma/static/media/digital-wallet.72c63eb42dc50adaef1f.gif",
@@ -13,11 +13,11 @@
     "static/media/go-top-button.png": "/Prisma/static/media/go-top-button.33b3389c26e39c703408.png",
     "static/media/prisma-footer-logo.png": "/Prisma/static/media/prisma-footer-logo.482c305918f852f7fcbc.png",
     "index.html": "/Prisma/index.html",
-    "main.fb47f58b.css.map": "/Prisma/static/css/main.fb47f58b.css.map",
+    "main.743208b4.css.map": "/Prisma/static/css/main.743208b4.css.map",
     "main.8c2a36c1.js.map": "/Prisma/static/js/main.8c2a36c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb47f58b.css",
+    "static/css/main.743208b4.css",
     "static/js/main.8c2a36c1.js"
   ]
 }
